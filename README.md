@@ -1,7 +1,6 @@
 # code-of-python
 codes
 
-import math
 
 # a=1234598765432
 # while(a>0):
