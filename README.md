@@ -16,7 +16,7 @@ codes
 #     x=x+2
 
 
-
+#for loop
 # for ch in range(10 , 21 , 2):
 # #     print(ch)
 
