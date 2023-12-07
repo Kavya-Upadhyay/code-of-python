@@ -3,7 +3,7 @@ codes
           
 #reverse no.         
 # a=1234598765432      
-# while(a>0):   
+# while(a>0):    
 #     last_digit=a%10   
 #     print(last_digit)  
     
