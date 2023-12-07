@@ -1,5 +1,5 @@
 # code-of-python 
-codes    
+codes     
        
 #reverse no.        
 # a=1234598765432    
