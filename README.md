@@ -7,7 +7,7 @@ codes
 #     last_digit=a%10   
 #     print(last_digit)  
     
-
+ 
 #while loop:
 # x = 10  
 # while (x<=20):  
