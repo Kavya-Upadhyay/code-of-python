@@ -1,6 +1,6 @@
 # code-of-python
 codes
-
+ 
 
 #reverse no.
 # a=1234598765432
