@@ -9,7 +9,7 @@ codes
 #     print(last_digit)
 
 
-
+#while loop
 # x = 10
 # while (x<=20):
 #     print(x)
