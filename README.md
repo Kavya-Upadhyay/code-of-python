@@ -1,6 +1,6 @@
 # code-of-python 
 codes        
-         
+          
 #reverse no.        
 # a=1234598765432      
 # while(a>0):   
